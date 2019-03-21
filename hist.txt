@@ -1,0 +1,1000 @@
+ 1090  ls /usr/bin/nv*
+ 1091  nvida-smi -a
+ 1092  nvidia-smi -a
+ 1093  netstat -an
+ 1094  netstat -an | grep LIST
+ 1095  sudo sync
+ 1096  sudo reboot
+ 1097  pwd
+ 1098  grep 8888 /var/log/syslog
+ 1099  tail -200 /var/log/syslog
+ 1100  sudo find / -name "jupy*py"
+ 1101  vi /home/rasse/.jupyter/jupyter_notebook_config.py
+ 1102  pwd
+ 1103  vi jupyter-password.py
+ 1104  python jupyter-password.py 
+ 1105  ls
+ 1106  vi jupyter-password.py 
+ 1107  python2 jupyter-password.py 
+ 1108  pythone3 jupyter-password.py 
+ 1109  python3 jupyter-password.py 
+ 1110  pwd
+ 1111  ls
+ 1112  tail -200 /var/log/syslog
+ 1113  cd Tensorflow-Bootcamp-master/
+ 1114  ls
+ 1115  ls -l
+ 1116  mv ../jupyter-password.py .
+ 1117  more jupyter-password.py 
+ 1118  pwd
+ 1119  ls
+ 1120  cd
+ 1121  ls
+ 1122  vi history
+ 1123  history
+ 1124  vi /home/rasse/.jupyter/jupyter_notebook_config.py
+ 1125  sudo su
+ 1126  nvidia-smi -a
+ 1127  pwd
+ 1128  ls
+ 1129  nvidia-smi
+ 1130  ls
+ 1131  cd GenerativeAdversarialNetworks/
+ 1132  ls
+ 1133  cd Pockemon-WGEN/
+ 1134  ls
+ 1135  ls -l
+ 1136  df -v
+ 1137  cd gen-fruit-images/
+ 1138  ls
+ 1139  pwd
+ 1140  cd ..
+ 1141  ls
+ 1142  ls -l
+ 1143  ls gen-fruit-images/
+ 1144  cd Pokemon_GAN-master/
+ 1145  ls
+ 1146  pwd
+ 1147  ls -l
+ 1148  ls
+ 1149  cd face5M
+ 1150  ls
+ 1151  pwd
+ 1152  cd ..
+ 1153  pwd
+ 1154  ls
+ 1155  ls new5FFace/
+ 1156  pwd
+ 1157  cd ..
+ 1158  ls
+ 1159  pwd
+ 1160  cd ..
+ 1161  ls
+ 1162  ls ..
+ 1163  ls -l
+ 1164  pwd
+ 1165  ls
+ 1166  cd Pockemon-WGEN/
+ 1167  ls
+ 1168  ls -l
+ 1169  ls gen-images/
+ 1170  pwd
+ 1171  cd Pokemon_GAN-master/
+ 1172  ls -l
+ 1173  ls *.py
+ 1174  more nohup.out 
+ 1175  mv nohup.out nohup-v2.out 
+ 1176  ls
+ 1177  ls -l fac*
+ 1178  ls
+ 1179  ls -l fac*.py
+ 1180  vi face5PockeGAN.py 
+ 1181  nohup python face5PockeGAN.py &
+ 1182  cat nohup.out 
+ 1183  nohup python2.7 face5PockeGAN.py &
+ 1184  cat nohup.out 
+ 1185  python3.6
+ 1186  nohup python3.6 face5PockeGAN.py &
+ 1187  ls *.sh
+ 1188  pwd
+ 1189  find /home/rasse/GenerativeAdversarialNetworks -name *.sh
+ 1190  history
+ 1191  history > hist.txt
+ 1192  grep fac hist.txt 
+ 1193  grep ten hist.txt 
+ 1194  more hist.txt 
+ 1195  pwd
+ 1196  ls
+ 1197  cd Tensorflow-Bootcamp-master/
+ 1198  ls
+ 1199  more commands.txt 
+ 1200  cd
+ 1201  cd GenerativeAdversarialNetworks/
+ 1202  ls
+ 1203  cd Pockemon-WGEN/
+ 1204  ls
+ 1205  cd Pokemon_GAN-master/
+ 1206  ls
+ 1207  source activate tfdeeplearning
+ 1208  nohup python3.6 face5PockeGAN.py &
+ 1209  tail nohup.out 
+ 1210  nvidia-sni -a
+ 1211  nvidia-smi
+ 1212  tail nohup.out 
+ 1213  rm nohup.out 
+ 1214  nohup python2.7 face5PockeGAN.py &
+ 1215  tail nohup.out 
+ 1216  nohup python3.6 face5PockeGAN.py &
+ 1217  nvidia-smi
+ 1218  nvidia-smi -a
+ 1219  tail nohup.out 
+ 1220  ls *.py
+ 1221  head face5PockeGAN.py 
+ 1222  head -20 face5PockeGAN.py 
+ 1223  head -50 face5PockeGAN.py 
+ 1224  ls
+ 1225  vi face5PockeGAN.py 
+ 1226  nohup python3.6 face5PockeGAN.py &
+ 1227  tail -f nohup.out 
+ 1228  nvidia-smi -a
+ 1229  tail -f nohup.out 
+ 1230  vi utils.py
+ 1231  pwd
+ 1232  tail nohup.out 
+ 1233  nohup python2.7 face5PockeGAN.py &
+ 1234  tail nohup.out 
+ 1235  history
+ 1236  alias
+ 1237  pwd
+ 1238  whereis activate
+ 1239  cat /home/rasse/anaconda3/bin/activate
+ 1240  ls /home/rasse/anaconda3/bin/
+ 1241  history
+ 1242  ls /home/rasse/anaconda3/
+ 1243  ls /home/rasse/anaconda3/envs/
+ 1244  pwd
+ 1245  ls
+ 1246  cat env1
+ 1247  ls env2
+ 1248  cat env2
+ 1249  ls
+ 1250  ls Tensorflow-Bootcamp-master/
+ 1251  more res.sh 
+ 1252  cd GenerativeAdversarialNetworks/
+ 1253  ls
+ 1254  cd Pockemon-WGEN/
+ 1255  ls
+ 1256  find . -name "*.sh"
+ 1257  cd Pokemon_GAN-master/
+ 1258  ls
+ 1259  cat hist.txt 
+ 1260  ls -l
+ 1261  ls -lt | head
+ 1262  rm -r new5XFace
+ 1263  rm nohup.out 
+ 1264  python face5PockeGAN.py 
+ 1265  source activate tfdeeplearning
+ 1266  python face5PockeGAN.py 
+ 1267  conda install scipy
+ 1268  python face5PockeGAN.py 
+ 1269  conda install pillow
+ 1270  python face5PockeGAN.py 
+ 1271  nvidia-sni 
+ 1272  nvidia-smi
+ 1273  ls
+ 1274  cd GenerativeAdversarialNetworks/
+ 1275  ls
+ 1276  cd Pockemon-WGEN/
+ 1277  ls
+ 1278  cd Pokemon_GAN-master/
+ 1279  ls
+ 1280  cd new5XFace/
+ 1281  ls
+ 1282  ls -l
+ 1283  man screen
+ 1284  man screens
+ 1285  man screen
+ 1286  screen -ls
+ 1287  screen -S GAN
+ 1288  screen -l
+ 1289  exit
+ 1290  screen -ls
+ 1291  exit
+ 1292  ls
+ 1293  cd GenerativeAdversarialNetworks/
+ 1294  ls
+ 1295  cd Pockemon-WGEN/
+ 1296  ls
+ 1297  cd Pokemon_GAN-master/
+ 1298  pwd
+ 1299  ls
+ 1300  cd new5XFace/
+ 1301  pwd
+ 1302  ls
+ 1303  nvidia-smi -a
+ 1304  nvidia-smi 
+ 1305  nvidia-smi -h
+ 1306  nvidia-smi --format=csv
+ 1307  nvidia-smi stats
+ 1308  nvidia-smi -h
+ 1309  nvidia-smi pmon
+ 1310  nvidia-smi -h
+ 1311  ls
+ 1312  nvidia-smi -a
+ 1313  history
+ 1314  screen -S GAN
+ 1315  screen -ls
+ 1316  screen -r pts-0.mlgpu2
+ 1317  screen -r 16022
+ 1318  screen -r 16705.GAN
+ 1319  screen -ls
+ 1320  screen -r 16705.GAN
+ 1321  screen -ls
+ 1322  screen -r 16705.GAN
+ 1323  sudo shutdown -h now
+ 1324  history
+ 1325  screen -l
+ 1326  screen -ls
+ 1327  screen -r 14979
+ 1328  screen -r 14979.GAN
+ 1329  screen -r pts-0.mlgpu2
+ 1330  story
+ 1331  screen -l
+ 1332  screen -ls
+ 1333  history
+ 1334  rm -r new5XFace
+ 1335  cd ..
+ 1336  rm -r new5XFace
+ 1337  python face5PockeGAN.py 
+ 1338  history
+ 1339  source activate tfdeeplearning
+ 1340  python face5PockeGAN.py 
+ 1341  ls
+ 1342  vi fruitPockeGAN.py 
+ 1343  ls 
+ 1344  pytthon fruitPockeGAN.py 
+ 1345  python fruitPockeGAN.py 
+ 1346  ls
+ 1347  python face6PockeGAN.py 
+ 1348  pwd
+ 1349  cd GenerativeAdversarialNetworks/Pockemon-WGEN/
+ 1350  ls
+ 1351  cd Pokemon_GAN-master/
+ 1352  ls
+ 1353  more fruitPockeGAN.py 
+ 1354  ls fruit
+ 1355  ls newFruit/
+ 1356  mv newFruit newFruitOld
+ 1357  vi fruitPockeGAN.py 
+ 1358  screen -ls
+ 1359  ls
+ 1360  ls newFruit
+ 1361  ls
+ 1362  more fruitPockeGAN.py 
+ 1363  ls
+ 1364  ls fruitBlack/
+ 1365  file fruitBlack/*
+ 1366  l
+ 1367  ls
+ 1368  ls fac*
+ 1369  ls -ld fac*
+ 1370  cp face5PockeGAN.py face6PockeGAN.py
+ 1371  vi face6PockeGAN.py 
+ 1372  ls face5
+ 1373  ls face5M/
+ 1374  vi face6PockeGAN.py 
+ 1375  file face5M/*
+ 1376  vi face6PockeGAN.py 
+ 1377  ls fr*
+ 1378  ls -ld fru*
+ 1379  ls fruit
+ 1380  ls fruitBlack/
+ 1381  screen -ls
+ 1382  screen -r GAN
+ 1383  sudo su
+ 1384  pwd
+ 1385  sudo apt-get install     apt-transport-https     ca-certificates     curl     software-properties-common
+ 1386  sudo apt-get -f install
+ 1387  sudo apt-get autoremove --purge
+ 1388  sudo dpkg --configure -a
+ 1389  sudo apt-get -f install
+ 1390  sudo dpkg --configure -a
+ 1391  sudo apt-get -f install
+ 1392  history
+ 1393  sudo apt-get install     apt-transport-https     ca-certificates     curl     software-properties-common
+ 1394  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+ 1395  sudo apt-key fingerprint 0EBFCD88
+ 1396  sudo add-apt-repository    "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
+ 1397     $(lsb_release -cs) \
+ 1398     stable"
+ 1399  sudo apt-get update
+ 1400  sudo apt-get install docker-ce
+ 1401  sudo docker run hello-world
+ 1402  df -v
+ 1403  docker pull tensorflow/tensorflow:latest-gpu-jupyter
+ 1404  sudo docker pull tensorflow/tensorflow:latest-gpu-jupyter
+ 1405  sudo docker pull tensorflow/tensorflow:latest-gpu
+ 1406  docker run -it tensorflow/tensorflow bash
+ 1407  sudo docker run -it tensorflow/tensorflow bash
+ 1408  sudo docker images
+ 1409  sudo docker ps
+ 1410  sudo docker ps -a
+ 1411  pwd
+ 1412  mkdir docker
+ 1413  cd docker/
+ 1414  mkdir runner
+ 1415  cd runner
+ 1416  ls
+ 1417  vi jenkins.sh
+ 1418  sh jenkins.sh 
+ 1419  netstat -tulpn
+ 1420  sudo docker images
+ 1421  sudo docker ps
+ 1422  sudo docker ps -a
+ 1423  cat jenkins.sh 
+ 1424  ls /var/
+ 1425  ls /var/jenkins_home/
+ 1426  sh jenkins.sh 
+ 1427  sudo docker ps -a
+ 1428  sudo docker images
+ 1429  sudo docker ps -a
+ 1430  vi jenkins.sh 
+ 1431  sudo sh jenkins.sh 
+ 1432  sudo docker ps -a
+ 1433  sudo docker rmi 55a14edfb623
+ 1434  sudo docker rm 55a14edfb623
+ 1435  sudo docker rm d5669f952238
+ 1436  sudo docker images
+ 1437  vi jenkins.sh 
+ 1438  sudo sh jenkins.sh 
+ 1439  sudo docker ps -a
+ 1440  sudo su
+ 1441  pwd
+ 1442  df -v
+ 1443  ls /boot
+ 1444  ls -l /boot
+ 1445  pwd
+ 1446  sudo su
+ 1447  ls
+ 1448  ll
+ 1449  ls *.gz
+ 1450  mkdir ML-Docker
+ 1451  cd ML-Docker/
+ 1452  tar -xzf ../Docker2.tar.gz 
+ 1453  ls
+ 1454  cd Docker2/
+ 1455  ls
+ 1456  sh build.sh 
+ 1457  sudo usermod -G docker rasse
+ 1458  sh build.sh 
+ 1459  sudo sh build.sh 
+ 1460  vi Dockerfile 
+ 1461  sudo sh build.sh 
+ 1462  ls
+ 1463  sh run.sh 
+ 1464  sudo sh run.sh 
+ 1465  ls
+ 1466  cat run.sh 
+ 1467  pwd
+ 1468  ls
+ 1469  ls volume/
+ 1470  pwd
+ 1471  vi run.sh 
+ 1472  sudo sh run.sh 
+ 1473  pwd
+ 1474  vi build.sh 
+ 1475  ll
+ 1476  pwd
+ 1477  vi Dockerfile 
+ 1478  ll
+ 1479  sh build.sh 
+ 1480  sudo sh build.sh 
+ 1481  ls
+ 1482  sudo sh run.sh 
+ 1483  history
+ 1484  pwd
+ 1485  cd ML-Docker/
+ 1486  ls
+ 1487  cd Docker2/
+ 1488  ls
+ 1489  mroe build.sh 
+ 1490  more build.sh 
+ 1491  more Dockerfile 
+ 1492  cat run.sh 
+ 1493  sh run.sh 
+ 1494  more Dockerfile 
+ 1495  pwd
+ 1496  cd ..
+ 1497  cd
+ 1498  ls
+ 1499  mkdir Build
+ 1500  cd Build/
+ 1501  ls
+ 1502  git clone https://github.com/NVIDIA/nvidia-docker.git
+ 1503  ls
+ 1504  cd nvidia-docker/
+ 1505  ls
+ 1506  more Dockerfile.debian 
+ 1507  ls
+ 1508  more README.md 
+ 1509  ls /etc/docker/d*
+ 1510  ls /etc/docker
+ 1511  more README.md 
+ 1512  docker volume ls -q -f driver=nvidia-docker
+ 1513  sudo apt-get purge -y nvidia-docker
+ 1514  sudo su
+ 1515  cat /etc/passwd
+ 1516  ssh root@127.0.0.1
+ 1517  ls /root
+ 1518  history | grep sudo
+ 1519  sudo docker ps
+ 1520  telnet 127.0.0.1
+ 1521  sudo sh run.sh 
+ 1522  sync
+ 1523  reboot
+ 1524  su
+ 1525  top
+ 1526  ls
+ 1527  ll /etc/passwd
+ 1528  ls /etc/sudoers
+ 1529  ll /etc/sudoers
+ 1530  cat /etc/sudoers
+ 1531  sudo passwd -u root
+ 1532  su
+ 1533  sync
+ 1534  reboot
+ 1535  sudo su
+ 1536  exit
+ 1537  ssh root@127.0.0.1
+ 1538  exit
+ 1539  pwd
+ 1540  sudo su
+ 1541  sudo ls
+ 1542  exit
+ 1543  sudo su
+ 1544  exit
+ 1545  ls
+ 1546  sudo su
+ 1547  sudo ls
+ 1548  sudo su
+ 1549  exit
+ 1550  sudo su
+ 1551  pwd
+ 1552  cd ML-Docker/Docker2/
+ 1553  ls
+ 1554  vi Dockerfile 
+ 1555  sh build.sh 
+ 1556  vi Dockerfile 
+ 1557  sh build.sh 
+ 1558  ls
+ 1559  ls volume/
+ 1560  ls volume/nvidia/
+ 1561  vi Dockerfile 
+ 1562  sh build.sh 
+ 1563  vi Dockerfile 
+ 1564  sh build.sh 
+ 1565  ls
+ 1566  sh run.sh 
+ 1567  docker image
+ 1568  docker images
+ 1569  vi run.sh 
+ 1570  sh -x run.sh 
+ 1571  grep debuild *
+ 1572  vi Dockerfile 
+ 1573  cat Dockerfile 
+ 1574  ls
+ 1575  mv build.sh  build1.sh
+ 1576  cp build1.sh build2.sh 
+ 1577  vi build2.sh 
+ 1578  rm build2.sh 
+ 1579  mv build1.sh build.sh 
+ 1580  cd ..
+ 1581  ls
+ 1582  tar -czf Docker2.tar.gz ./Docker2/
+ 1583  ls
+ 1584  mv Docker2 Docker3
+ 1585  cd Docker3/
+ 1586  ls
+ 1587  vi Dockerfile 
+ 1588  sh build.sh 
+ 1589  vi Dockerfile 
+ 1590  sh build.sh 
+ 1591  vi Dockerfile 
+ 1592  sh build.sh 
+ 1593  pwd
+ 1594  cd ML-Docker/Docker3/
+ 1595  ls
+ 1596  vi Dockerfile 
+ 1597  docker info
+ 1598  docker --help
+ 1599  docker inspect --help
+ 1600  ls
+ 1601  ll
+ 1602  ls
+ 1603  pwd
+ 1604  cd ..
+ 1605  ls
+ 1606  pwd
+ 1607  ls
+ 1608  cd Docker3/
+ 1609  ls
+ 1610  cat run.sh 
+ 1611  run --runtime=nvidia --rm -it -v docker-tensorflow-opencv:latest
+ 1612  docker run --runtime=nvidia --rm -it -v docker-tensorflow-opencv:latest
+ 1613  docker run --runtime=nvidia --rm -it  docker-tensorflow-opencv:latest
+ 1614  docker run --runtime=nvidia --rm -it  docker-tensorflow-opencv
+ 1615  docker run --runtime=nvidia --rm -it  docker-tensorflow-opencv:gpu
+ 1616  docker pull  docker-tensorflow-opencv:gpu
+ 1617  docker pull  fbcotter/docker-tensorflow-opencv:gpu
+ 1618  docker images
+ 1619  docker run --rm -it  fbcotter/docker-tensorflow-opencv:gpu
+ 1620  cd ML-Docker/Docker3/
+ 1621  ls
+ 1622  more Dockerfile 
+ 1623  vi Dockerfile 
+ 1624  sh build.sh 
+ 1625  docker pull spmallick/opencv-docker
+ 1626  docker pull spmallick/opencv-docker:opencv
+ 1627  docker images
+ 1628  docker inspect 50adf0e88268
+ 1629  ls
+ 1630  pwd
+ 1631  ll
+ 1632  ls Build/
+ 1633  cd docker/
+ 1634  ls
+ 1635  cd runner/
+ 1636  ll
+ 1637  cat jenkins.sh 
+ 1638  pwd
+ 1639  cd
+ 1640  ll
+ 1641  cd ML-Docker/
+ 1642  ll
+ 1643  cd Docker3/
+ 1644  ll
+ 1645  more run.sh
+ 1646  pwd
+ 1647  ll
+ 1648  ll bin
+ 1649  ll volume/
+ 1650  ll scripts/
+ 1651  more scripts/do1.sh 
+ 1652  ls
+ 1653  more Dockerfile 
+ 1654  ls
+ 1655  cat run.sh 
+ 1656  ls
+ 1657  ls volume/
+ 1658  more volume/do1.sh 
+ 1659  more volume/do2.sh 
+ 1660  ll volume/
+ 1661  ls volume/nvidia/
+ 1662  ls
+ 1663  sh run.sh 
+ 1664  ls
+ 1665  sh build.sh 
+ 1666  docker images
+ 1667  sh run.sh 
+ 1668  cat build.sh 
+ 1669  pwd
+ 1670  cat Dockerfile 
+ 1671  vi Dockerfile 
+ 1672  sh build.sh 
+ 1673  screen -S Bld1
+ 1674  screen -ls
+ 1675  screen -S Bld2
+ 1676  screen -S Bld3
+ 1677  screen -r Bld1
+ 1678  screen -r Bld3
+ 1679  screen -r  Bld2
+ 1680  top
+ 1681  pwd
+ 1682  cd ML-Docker/
+ 1683  ls
+ 1684  cd Docker3/
+ 1685  ll
+ 1686  cat bld.log 
+ 1687  tail -f bld.log 
+ 1688  tail -2000 bld.log | head
+ 1689  tail -2000 bld.log | head -100
+ 1690  grep echo bld.log 
+ 1691  pwd
+ 1692  vi Dockerfile 
+ 1693  history
+ 1694  grep echo bld.log 
+ 1695  vi Dockerfile 
+ 1696  tail -f bld.log 
+ 1697  tail bld.log 
+ 1698  ls
+ 1699  ls scripts/
+ 1700  cat scripts/do1.sh 
+ 1701  ls volume/
+ 1702  pwd
+ 1703  more Dockerfile 
+ 1704  pwd
+ 1705  ll
+ 1706  cat run.sh 
+ 1707  ls volume/
+ 1708  cat Dockerfile 
+ 1709  cat run
+ 1710  cat run.sh 
+ 1711  cat /proc/cpuinfo. | grep "model name"
+ 1712  cat /proc/cpuinfo 
+ 1713  gcc --version
+ 1714  grep AVX bld.log 
+ 1715  vi Dockerfile 
+ 1716  cat Dockerfile 
+ 1717  ls
+ 1718  find . -name "*.py"
+ 1719  find ../Docker2 -name "*.py"
+ 1720  docker run --runtime=nvidia -it --rm tensorflow/tensorflow:latest-gpu    python -c "import tensorflow as tf; tf.enable_eager_execution(); print(tf.reduce_sum(tf.random_normal([1000, 1000])))"
+ 1721  history
+ 1722  docker run --runtime=nvidia --rm nvidia/cuda:9.0-base nvidia-smi
+ 1723  history
+ 1724  docker run --runtime=nvidia -it --rm tensorflow/tensorflow:latest-gpu    python -c "import tensorflow as tf; tf.enable_eager_execution(); print(tf.reduce_sum(tf.random_normal([1000, 1000])))"
+ 1725  docker run --runtime=nvidia -it --rm tensorflow/tensorflow:devel-gpu    python -c "import tensorflow as tf; tf.enable_eager_execution(); print(tf.reduce_sum(tf.random_normal([1000, 1000])))"
+ 1726  history
+ 1727  docker run --runtime=nvidia -it --rm tensorflow/tensorflow:latest-gpu    python -c "import tensorflow as tf; tf.enable_eager_execution(); print(tf.reduce_sum(tf.random_normal([1000, 1000])))"
+ 1728  docker run --runtime=nvidia -it --rm tensorflow/tensorflow:devel-gpu    python -c "import tensorflow as tf; tf.enable_eager_execution(); print(tf.reduce_sum(tf.random_normal([1000, 1000])))"
+ 1729  docker run --runtime=nvidia -it --rm tensorflow/tensorflow:nightly-gpu    python -c "import tensorflow as tf; tf.enable_eager_execution(); print(tf.reduce_sum(tf.random_normal([1000, 1000])))"
+ 1730  history
+ 1731  ls
+ 1732  cd ../Docker4/
+ 1733  vi Dockerfile
+ 1734  ls ../Docker3
+ 1735  ls bin
+ 1736  ls ../Docker3/bin
+ 1737  cp ../Docker3/bashrc .
+ 1738  grep COPY Dockerfile
+ 1739  vi Dockerfile
+ 1740  ls
+ 1741  docker images
+ 1742  docker rmi bc65a7842fae 6f07310eada2 edd5a9b4605a e46635b912c4 414a2b6b555b
+ 1743  docker images
+ 1744  sh build.sh 
+ 1745  vi Dockerfile
+ 1746  ls
+ 1747  wget https://github.com/schrepfler/tensorflow-community-wheels/releases/download/v1.12.0/tensorflow-1.12.0-cp36-cp36m-linux_x86_64.whl
+ 1748  ll
+ 1749  vi Dockerfile
+ 1750  sh build.sh 
+ 1751  ls
+ 1752  mkdir TF
+ 1753  mv tensorflow-1.12.0-cp36-cp36m-linux_x86_64.whl TF
+ 1754  vi Dockerfile
+ 1755  sh build.sh 
+ 1756  vi Dockerfile
+ 1757  sh build.sh 
+ 1758  vi Dockerfile
+ 1759  sh build.sh 
+ 1760  vi Dockerfile
+ 1761  sh build.sh 
+ 1762  vi Dockerfile
+ 1763  sh build.sh 
+ 1764  ls
+ 1765  vi Dockerfile
+ 1766  ls
+ 1767  sh build.sh 
+ 1768  vi Dockerfile
+ 1769  sh build.sh 
+ 1770  ls
+ 1771  cp Dockerfile Dockerfile.V3
+ 1772  more Dockerfile.V2 
+ 1773  ls
+ 1774  cat Dockerfile.V2 
+ 1775  cp Dockerfile.V2 Dockerfile
+ 1776  sh build.sh 
+ 1777  cat run.sh 
+ 1778  docker run --runtime=nvidia --rm -it -v "/home/rasse/ML-Docker/Docker3/volume:/flow/volume" mynvidia/tensorflow-gpu
+ 1779  pwd
+ 1780  ll
+ 1781  cd ML-Docker/
+ 1782  ls
+ 1783  ll
+ 1784  ll ../Docker2.tar.gz 
+ 1785  mv ../Docker2.tar.gz Docker2-V1.tar.gz
+ 1786  ll
+ 1787  mv Docker2.tar.gz Docker2-V2.tar.gz
+ 1788  ll
+ 1789  pwd
+ 1790  cd Docker3/
+ 1791  ll
+ 1792  build images
+ 1793  docker images
+ 1794  docker rmi 083be17a927b 3d09935ae648 5abd97a1e946
+ 1795  docker stop 083be17a927b 3d09935ae648 5abd97a1e946
+ 1796  docker ps -a
+ 1797  docker stop 036fd80a38ed 7eda51ed8229 16443a79fec5 bce1084d3c1e
+ 1798  docker rmi 083be17a927b 3d09935ae648 3d09935ae648 5abd97a1e946 fbcotter/docker-tensorflow-opencv
+ 1799  docker ps -a
+ 1800  docker stop 036fd80a38ed
+ 1801  docker stop 7eda51ed8229 f39dd6769bb2 bce1084d3c1e
+ 1802  docker ps -a
+ 1803  docker stop 036fd80a38ed f39dd6769bb2
+ 1804  docker rmi 083be17a927b 3d09935ae648 3d09935ae648 5abd97a1e946 fbcotter/docker-tensorflow-opencv
+ 1805  docker stop 036fd80a38ed
+ 1806  docker ps -a
+ 1807  docker ps
+ 1808  docker images
+ 1809  docker rmi 083be17a927b 3d09935ae648 74f5aea45cf6 58565658638b
+ 1810  docker images
+ 1811  docker stop 036fd80a38ed f39dd6769bb2
+ 1812  docker images
+ 1813  docker rmi a51debf7e1eb 74f5aea45cf6
+ 1814  docker images
+ 1815  docker rm 50adf0e88268 5abd97a1e946 3d09935ae648 083be17a927b
+ 1816  docker rmi 50adf0e88268 5abd97a1e946 3d09935ae648 083be17a927b
+ 1817  docker stop bce1084d3c1e f39dd6769bb2 036fd80a38ed
+ 1818  docker rmi 50adf0e88268 5abd97a1e946 3d09935ae648 083be17a927b
+ 1819  docker images
+ 1820  docker ps -a
+ 1821  man docker stop --help
+ 1822  docker ps --help
+ 1823  docker ps -a
+ 1824  docker stop 036fd80a38ed
+ 1825  docker rmi 083be17a927b
+ 1826  docker stop 036fd80a38ed
+ 1827  docker rmi 083be17a927b
+ 1828  docker rmi --help
+ 1829  docker rmi -f 083be17a927b 3d09935ae648 5abd97a1e946
+ 1830  docker images
+ 1831  docker rmi e62f116fc71b
+ 1832  docker rmi 74f5aea45cf6
+ 1833  docker rmi -f 74f5aea45cf6
+ 1834  docker images
+ 1835  pwd
+ 1836  ll
+ 1837  sh build.sh 
+ 1838  sh build.sh > bld.log
+ 1839  pwd
+ 1840  ll
+ 1841  pwd
+ 1842  cd ..
+ 1843  pwd
+ 1844  ll
+ 1845  tar -czf Docker3-V1.tar.gz ./Docker3/
+ 1846  docker image
+ 1847  pwd
+ 1848  ll
+ 1849  cd Docker3/
+ 1850  ll
+ 1851  sh run.sh 
+ 1852  docker ps -all
+ 1853  ls
+ 1854  docker images
+ 1855  docker stop ed79168bfef1
+ 1856  docker rmi 27bc7ac110d6
+ 1857  docker rmi -f 27bc7ac110d6
+ 1858  docker images
+ 1859  vi run.sh 
+ 1860  sh run.sh 
+ 1861  head Dockerfile 
+ 1862  head -30 Dockerfile 
+ 1863  lspci | grep -i nvidia
+ 1864  docker run --runtime=nvidia --rm nvidia/cuda nvidia-smi
+ 1865  history
+ 1866  docker run --runtime=nvidia nvidia/cuda lspci | grep -i nvidia
+ 1867  docker run --runtime=nvidia nvidia/cuda
+ 1868  docker images
+ 1869  docker rmi e62f116fc71b
+ 1870  docker rmi 1cc6f1613121
+ 1871  docker stop 40ee951f7eb1
+ 1872  docker rmi 1cc6f1613121
+ 1873  docker rmi -f 1cc6f1613121
+ 1874  docker images
+ 1875  docker rmi -f e62f116fc71b
+ 1876  docker images
+ 1877  docker rmi a5f319dcd6e0
+ 1878  docker rmi -f a5f319dcd6e0
+ 1879  docker rmi -f e62f116fc71b
+ 1880  history
+ 1881  docker run --runtime=nvidia nvidia/cuda
+ 1882  docker volume ls -q -f driver=nvidia-docker
+ 1883  curl -s -L https://nvidia.github.io/nvidia-docker/gpgkey |   sudo apt-key add -
+ 1884  distribution=$(. /etc/os-release;echo $ID$VERSION_ID)
+ 1885  echo $distribution
+ 1886  curl -s -L https://nvidia.github.io/nvidia-docker/$distribution/nvidia-docker.list |   sudo tee /etc/apt/sources.list.d/nvidia-docker.list
+ 1887  sudo apt-get update
+ 1888  sudo apt-get install -y nvidia-docker2
+ 1889  sudo pkill -SIGHUP dockerd
+ 1890  docker run --runtime=nvidia --rm nvidia/cuda:9.0-base nvidia-smi
+ 1891  sh run.sh 
+ 1892  history
+ 1893  lspci | grep -i nvidia
+ 1894  docker run --runtime=nvidia --rm nvidia/cuda:9.0-base lspci | grep -i nvidia
+ 1895  history
+ 1896  pwd
+ 1897  ls
+ 1898  cat run.sh 
+ 1899  docker run --runtime=nvidia --rm -it -v "/home/rasse/ML-Docker/Docker3/volume:/flow/volume" myyolo/tensorflow-gpu python -c "import tensorflow as tf; tf.enable_eager_execution(); print(tf.reduce_sum(tf.random_normal([1000, 1000])))"
+ 1900  vi Dockerfile 
+ 1901  top
+ 1902  top
+ 1903  pwd
+ 1904  ls
+ 1905  cd ML-Docker/
+ 1906  ll
+ 1907  pwd
+ 1908  tar -tzf Docker2-V2.tar.gz 
+ 1909  df -v
+ 1910  tar -xzf Docker2-V2.tar.gz 
+ 1911  pwd
+ 1912  ll
+ 1913  mkdir Docker4
+ 1914  cd Docker4/
+ 1915  vi Dockerfile
+ 1916  ls ../Docker3/build.sh .
+ 1917  ll
+ 1918  pwd
+ 1919  cp ../Docker3/build.sh .
+ 1920  ll
+ 1921  vi build.sh 
+ 1922  more ../Docker3/build.sh 
+ 1923  more ../Docker3/run.sh 
+ 1924  cp ../Docker3/run.sh .
+ 1925  cat build.sh 
+ 1926  vi run.sh 
+ 1927  sh build.sh 
+ 1928  cat Dockerfile 
+ 1929  vi Dockerfile 
+ 1930  sh build.sh 
+ 1931  vi Dockerfile 
+ 1932  sh build.sh 
+ 1933  cat run.sh 
+ 1934  vi run.sh 
+ 1935  sh run.sh 
+ 1936  vi run.sh 
+ 1937  sh run.sh 
+ 1938  pwd
+ 1939  more Dockerfile 
+ 1940  pwd
+ 1941  cat run.sh 
+ 1942  docker run --runtime=nvidia --rm -it -v "/home/rasse/ML-Docker/Docker3/volume:/flow/volume" mynvidia/tensorflow-gpu
+ 1943  vi Dockerfile 
+ 1944  sh build.sh 
+ 1945  vi Dockerfile 
+ 1946  sh build.sh 
+ 1947  vi Dockerfile 
+ 1948  sh build.sh 
+ 1949  sh build.sh
+ 1950  sh run.sh 
+ 1951  vi Dockerfile 
+ 1952  sh build.sh
+ 1953  sh run.sh 
+ 1954  vi Dockerfile 
+ 1955  sh build.sh 
+ 1956  vi Dockerfile 
+ 1957  sh build.sh 
+ 1958  sh run.sh 
+ 1959  cat run.sh 
+ 1960  docker run --runtime=nvidia --rm -it -v "/home/rasse/ML-Docker/Docker3/volume:/flow/volume" mynvidia/tensorflow-gpu cat /proc/cpuinfo
+ 1961  history
+ 1962  ls
+ 1963  cp Dockerfile Dockerfile.V1
+ 1964  cp ../Docker3/Dockerfile .
+ 1965  vi Dockerfile
+ 1966  sh build.sh 
+ 1967  cat run.sh 
+ 1968  sh run.sh 
+ 1969  docker run --runtime=nvidia --rm -it -v "/home/rasse/ML-Docker/Docker3/volume:/flow/volume" mynvidia/tensorflow-gpu nvidia-smi
+ 1970  docker run --runtime=nvidia --rm -it -v "/home/rasse/ML-Docker/Docker3/volume:/flow/volume" mynvidia/tensorflow-gpu 
+ 1971  ls
+ 1972  cp Dockerfile Dockerfile.V2
+ 1973  cp Dockerfile.V1 Dockerfile
+ 1974  vi Dockerfile
+ 1975  ls
+ 1976  ls -a
+ 1977  vi Dockerfile
+ 1978  diff Dockerfile.V1 Dockerfile.V2
+ 1979  subl Dockerfile.V1 Dockerfile.V2
+ 1980  cat Dockerfile.V1 
+ 1981  cat Dockerfile.V2
+ 1982  vi Dockerfile
+ 1983  grep pip Dockerfile
+ 1984  vi Dockerfile
+ 1985  vi tocopy.tf_configure.bazelrc
+ 1986  vi tocopy.bazelrc
+ 1987  ll
+ 1988  mkdir tocopy.tools
+ 1989  vi tocopy.tools/python_bin_path.sh
+ 1990  vi tocopy.tools/tf_env_collect.sh
+ 1991  ll
+ 1992  cat tocopy.tools/tf_env_collect.sh 
+ 1993  vi Dockerfile
+ 1994  ll
+ 1995  vi Dockerfile
+ 1996  ll
+ 1997  vi Dockerfile
+ 1998  sudo shutdown -h now
+ 1999  cd ..
+ 2000  exit
+ 2001  pwd
+ 2002  ls
+ 2003  ll
+ 2004  df -v
+ 2005  ll
+ 2006  cd GenerativeAdversarialNetworks/
+ 2007  ls
+ 2008  cd Pockemon-WGEN/
+ 2009  ls
+ 2010  df -v
+ 2011  du -sg *
+ 2012  du -sm *
+ 2013  ll
+ 2014  ls gen-images/
+ 2015  cd Pokemon_GAN-master/
+ 2016  ls
+ 2017  ll
+ 2018  ls /home/rasse/
+ 2019  mkdir /home/rasse/Projects/GAN-face
+ 2020  pwd
+ 2021  mkdir /home/rasse/tmp
+ 2022  ll
+ 2023  ls -1 > totar.sh
+ 2024  vi totar.sh 
+ 2025  ls -l > totar.sh
+ 2026  vi totar.sh 
+ 2027  man cut
+ 2028  cat totar.sh | cut -c 30-40
+ 2029  cat totar.sh | cut -c 50-60
+ 2030  cat totar.sh | cut -c 45-60
+ 2031  cat totar.sh | cut -c 47-60
+ 2032  cat totar.sh | cut -c 47-600
+ 2033  cat totar.sh | cut -c 47-600 > totar1.sh 
+ 2034  vi totar1.sh 
+ 2035  vi totar1.sh totar.txt
+ 2036  mv totar1.sh totar.txt
+ 2037  vi totar.sh 
+ 2038  sh totar.sh 
+ 2039  vi ~/.bashrc
+ 2040  source ~/.bashrc
+ 2041  pwd
+ 2042  ls
+ 2043  pwd
+ 2044  ll
+ 2045  pwd
+ 2046  vi totar.sh 
+ 2047  sh totar.sh 
+ 2048  ls
+ 2049  cat totar.txt 
+ 2050  vi totar.txt 
+ 2051  sh totar.sh 
+ 2052  vi totar.txt 
+ 2053  sh totar.sh 
+ 2054  git status
+ 2055  cd
+ 2056  cd Projects/GAN-face/
+ 2057  ls
+ 2058  ll
+ 2059  cat hist.txt 
+ 2060  ls
+ 2061  ll
+ 2062  ls fruit*
+ 2063  ls fac*
+ 2064  ll fac*
+ 2065  l fac*
+ 2066  pwd
+ 2067  mkdir old
+ 2068  mv flags* old
+ 2069  ls
+ 2070  ll
+ 2071  mv car* old/
+ 2072  rm PockeGAN.ipynb 
+ 2073  more rename.sh 
+ 2074  mv rename.sh old/
+ 2075  ls
+ 2076  ll
+ 2077  mv totar.sh old/
+ 2078  ll
+ 2079  more utils.py 
+ 2080  ll
+ 2081  more README.md 
+ 2082  ll
+ 2083  mv face* old
+ 2084  mv fruit* old
+ 2085  ll
+ 2086  grep pokeGAN hist.txt 
+ 2087  grep resize hist.txt 
+ 2088  mv hist.txt old/
+ 2089  history > hist.txt
