@@ -15,12 +15,14 @@ from utils import *
 
 BATCH_SIZE = 64
 EPOCH = 2000
-LEARNING_RATE = 2.2e-4
+LEARNING_RATE = 1.9e-4
 EPSILON=1e-6
 DECAY = 0.85
 EPSILON, DECAY
-STDEV_INIT = 0.015
+STDEV_INIT = 0.008
 VER_LETTER="C"
+SEND_IMAGE=25
+
 slim = tf.contrib.slim
 
 MODEL_DIR = "./faceModel/"
@@ -256,7 +258,7 @@ def train():
             if not os.path.exists(MODEL_DIR + version):
                 os.makedirs(MODEL_DIR + version)
             saver.save(sess, MODEL_DIR +version + '/' + str(i))  
-        if i%50 == 0:
+        if i%SEND_IMAGE == 0:
             # save images
             if not os.path.exists(newPoke_path):
                 os.makedirs(newPoke_path)
@@ -266,7 +268,8 @@ def train():
             # imgtest.astype(np.uint8)
             save_images(imgtest, [8,8] ,newPoke_path + '/epoch' + VER_LETTER + str(i) + '.jpg')
             
-            print('train:[%d],d_loss:%f,g_loss:%f' % (i, dLoss, gLoss))
+            print('train:[%d], d_loss:%f, g_loss:%f' % (i, dLoss, gLoss))
+            os.system('/usr/bin/send_slack "' + ('train:[%d], d_loss:%f, g_loss:%f' % (i, dLoss, gLoss)) + '"')
     coord.request_stop()
     coord.join(threads)
 
